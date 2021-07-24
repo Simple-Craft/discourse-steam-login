@@ -16,6 +16,10 @@ gem 'omniauth-steam', '1.0.6'
 
 register_svg_icon "fab-steam" if respond_to?(:register_svg_icon)
 
+def can_revoke?
+  false
+end
+
 register_asset 'stylesheets/steam-login.scss'
 
 [
