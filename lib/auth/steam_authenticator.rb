@@ -8,6 +8,10 @@ class Auth::SteamAuthenticator < ::Auth::ManagedAuthenticator
   def enabled?
     SiteSetting.enable_steam_logins
   end
+  
+  def can_revoke?
+    false
+  end
 
   def register_middleware(omniauth)
     omniauth.provider :steam, setup: lambda { |env|
