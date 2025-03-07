@@ -1,0 +1,12 @@
+# WARNING: Never edit this file.
+# It will be overwritten when translations are pulled from Crowdin.
+#
+# To work with us on translations, join this project:
+# https://translate.discourse.org/
+
+fa_IR:
+  js:
+    login:
+      steam:
+        name: "استیم"
+        message: "احراز هویت با استیم (مطمئن شوید که مسدود کننده‌های پاپ‌آپ فعال نیستند)"

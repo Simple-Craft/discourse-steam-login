@@ -1,0 +1,13 @@
+# WARNING: Never edit this file.
+# It will be overwritten when translations are pulled from Crowdin.
+#
+# To work with us on translations, join this project:
+# https://translate.discourse.org/
+
+he:
+  js:
+    login:
+      steam:
+        name: "Steam"
+        title: "כניסה עם Steam"
+        message: "אימות דרך Steam (יש לוודא שחוסמי חלונות קופצים מושבתים)"

@@ -1,0 +1,12 @@
+# WARNING: Never edit this file.
+# It will be overwritten when translations are pulled from Crowdin.
+#
+# To work with us on translations, join this project:
+# https://translate.discourse.org/
+
+el:
+  js:
+    login:
+      steam:
+        name: "Steam"
+        message: "Έλεγχος ταυτότητας με το Steam (βεβαιωθείτε ότι τα προγράμματα αποκλεισμού αναδυόμενων παραθύρων δεν είναι προσωρινά ενεργοποιημένα)"

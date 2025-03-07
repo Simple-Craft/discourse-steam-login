@@ -1,0 +1,13 @@
+# WARNING: Never edit this file.
+# It will be overwritten when translations are pulled from Crowdin.
+#
+# To work with us on translations, join this project:
+# https://translate.discourse.org/
+
+tr_TR:
+  js:
+    login:
+      steam:
+        name: "Steam"
+        title: "Steam ile giriş yapın"
+        message: "Steam ile kimlik doğrulama (açılır pencere engelleyicilerin etkin olmadığından emin olun)"

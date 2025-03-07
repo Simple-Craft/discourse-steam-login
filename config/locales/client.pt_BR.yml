@@ -1,0 +1,13 @@
+# WARNING: Never edit this file.
+# It will be overwritten when translations are pulled from Crowdin.
+#
+# To work with us on translations, join this project:
+# https://translate.discourse.org/
+
+pt_BR:
+  js:
+    login:
+      steam:
+        name: "Steam"
+        title: "Entrar com o Steam"
+        message: "Autenticação com o Steam (desative bloqueadores de pop-up, se necessário)"
